@@ -2,4 +2,4 @@
 layout: default
 ---
 
-#Mission Statement
+# Mission Statement
